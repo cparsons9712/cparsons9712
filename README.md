@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @cparsons9712
-- 👀 I’m interested in developing a cool meal tracker app
-- 🌱 I’m currently learning html/css/javascript on App Academy
+- 🌱 I’m currently learning html/css/javascript/python on App Academy
 - 💞️ I’m looking to collaborate on learning new skills
 - 📫 How to reach me clong9712@gmail.com
 
