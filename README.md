@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Christine</h1>
-<h3 align="center">A full-stack developer from Georgia.</h3>
+<h3 align="center">A full-stack developer from Augusta, Georgia.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cparsons9712&label=Profile%20views&color=0e75b6&style=flat" alt="cparsons9712" /> </p>
 
