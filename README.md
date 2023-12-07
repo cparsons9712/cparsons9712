@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Dinner Decipher**
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 📫 How to reach me **clong9712@gmail.com**
 
