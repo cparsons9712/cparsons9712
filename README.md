@@ -8,6 +8,8 @@
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 📫 How to reach me **clong9712@gmail.com**
+  
+- 📓See my portfolio **https://cparsons9712.github.io/**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1tvoICbzBMfM6ZAHMiz65rUo1T-f1RsKcZEbwTEoA5nM/edit?usp=drive_link](https://docs.google.com/document/d/1tvoICbzBMfM6ZAHMiz65rUo1T-f1RsKcZEbwTEoA5nM/edit?usp=drive_link)
 
