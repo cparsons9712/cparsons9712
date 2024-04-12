@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Busy Bee**
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **UI/ UX Design**
 
 - 📫 How to reach me **clong9712@gmail.com**
   
