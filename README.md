@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cparsons9712&label=Profile%20views&color=0e75b6&style=flat" alt="cparsons9712" /> </p>
 
-- 🔭 I’m currently working on **Busy Bee**
+- 🔭 I’m currently working on **Bee Productive Time Blocking App**
 
-- 🌱 I’m currently learning **UI/ UX Design**
+- 🌱 I’m currently learning **Tailwind**
 
-- 📫 How to reach me **clong9712@gmail.com**
+- 📫 How to reach me **christine.dev.projects@gmail.com**
   
 - 📓See my portfolio **https://cparsons9712.github.io/**
 
