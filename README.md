@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cparsons9712&label=Profile%20views&color=0e75b6&style=flat" alt="cparsons9712" /> </p>
 
-- 🔭 I’m currently working on **Cultivating Connections's New Website**
+- 🔭 I’m currently working on **Psuedotickets: DSA made interesting**
 
-- 🌱 I’m currently learning **Notion**
+- 🌱 I’m currently learning **Coda**
 
 - 📫 How to reach me **christine.dev.projects@gmail.com**
   
