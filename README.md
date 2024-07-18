@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Psuedotickets: DSA made interesting**
 
-- 🌱 I’m currently learning **Coda**
+- 🌱 I’m currently learning **CFL: Coda Formula Language**
 
 - 📫 How to reach me **christine.dev.projects@gmail.com**
   
